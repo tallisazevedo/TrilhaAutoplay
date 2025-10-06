@@ -1,0 +1,15 @@
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\bin\Debug\net8.0\ApiPaises.exe
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\bin\Debug\net8.0\ApiPaises.deps.json
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\bin\Debug\net8.0\ApiPaises.runtimeconfig.json
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\bin\Debug\net8.0\ApiPaises.dll
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\bin\Debug\net8.0\ApiPaises.pdb
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\obj\Debug\net8.0\ApiPaises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\obj\Debug\net8.0\ApiPaises.AssemblyInfoInputs.cache
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\obj\Debug\net8.0\ApiPaises.AssemblyInfo.cs
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\obj\Debug\net8.0\ApiPaises.csproj.CoreCompileInputs.cache
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\obj\Debug\net8.0\ApiPaises.sourcelink.json
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\obj\Debug\net8.0\ApiPaises.dll
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\obj\Debug\net8.0\refint\ApiPaises.dll
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\obj\Debug\net8.0\ApiPaises.pdb
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\obj\Debug\net8.0\ApiPaises.genruntimeconfig.cache
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiPaises\obj\Debug\net8.0\ref\ApiPaises.dll

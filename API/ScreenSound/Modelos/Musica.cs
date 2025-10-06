@@ -3,6 +3,7 @@ using System.Text.Json.Serialization;
 
 
 namespace ScreenSound.Modelos;
+
 public class Musica
 {
     [JsonPropertyName("song")]
@@ -19,6 +20,8 @@ public class Musica
 
     public void ExibirDetalhesDaMusica()
     {
+        Console.WriteLine($" ");
+
         Console.WriteLine($"Artista: {Artista}");
         Console.WriteLine($"Música: {Nome}");
         Console.WriteLine($"Duração em segundos: {Duracao / 1000}");

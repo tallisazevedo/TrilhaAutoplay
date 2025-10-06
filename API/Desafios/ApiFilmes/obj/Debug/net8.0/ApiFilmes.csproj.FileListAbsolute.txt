@@ -1,0 +1,15 @@
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\bin\Debug\net8.0\ApiFilmes.exe
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\bin\Debug\net8.0\ApiFilmes.deps.json
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\bin\Debug\net8.0\ApiFilmes.runtimeconfig.json
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\bin\Debug\net8.0\ApiFilmes.dll
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\bin\Debug\net8.0\ApiFilmes.pdb
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\obj\Debug\net8.0\ApiFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\obj\Debug\net8.0\ApiFilmes.AssemblyInfoInputs.cache
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\obj\Debug\net8.0\ApiFilmes.AssemblyInfo.cs
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\obj\Debug\net8.0\ApiFilmes.csproj.CoreCompileInputs.cache
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\obj\Debug\net8.0\ApiFilmes.sourcelink.json
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\obj\Debug\net8.0\ApiFilmes.dll
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\obj\Debug\net8.0\refint\ApiFilmes.dll
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\obj\Debug\net8.0\ApiFilmes.pdb
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\obj\Debug\net8.0\ApiFilmes.genruntimeconfig.cache
+C:\Users\Talli\TrilhaAutoplay\API\Desafios\ApiFilmes\obj\Debug\net8.0\ref\ApiFilmes.dll
